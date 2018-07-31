@@ -47,9 +47,9 @@
     "typescript": "~2.5.3"
   },
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.",
-  "main": "karma.conf.js",
+  "main": "src/main.js",
   "keywords": [
-    "[\"example\"",
+    "[\"node\"",
     "\"heroku\"]"
   ],
   "author": "\"Rachel Frock\"",
